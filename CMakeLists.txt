@@ -51,6 +51,7 @@ add_message_files(
   FILES
   BBox.msg
   DMPParams.msg
+  Float64Point2D.msg
   Int32Point2D.msg
 )
 
